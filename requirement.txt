@@ -1,0 +1,6 @@
+fastapi
+pydantic
+jwt
+postgresql
+sqlalchemy
+alembic
